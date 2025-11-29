@@ -1,6 +1,0 @@
-projectKey=lab4php
-serverUrl=http://localhost:9000
-serverVersion=25.11.0.114957
-dashboardUrl=http://localhost:9000/dashboard?id=lab4php
-ceTaskId=51b24282-0350-436a-ae15-9767c7ec65b1
-ceTaskUrl=http://localhost:9000/api/ce/task?id=51b24282-0350-436a-ae15-9767c7ec65b1
